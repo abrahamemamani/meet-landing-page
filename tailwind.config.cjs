@@ -21,6 +21,10 @@ module.exports = {
         'default-grey': '#87879D',
         accent: '#8FE3F9',
         'secondary-light': '#D9B8FF',
+        'grey-light': '#FAFAFA',
+      },
+      backgroundImage: {
+        'hero-pattern': "url('./src/assets/hero-pattern.svg')",
       }
     },
   },
